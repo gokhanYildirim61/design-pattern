@@ -1,4 +1,4 @@
-package com.training.designpatterns.creational.strategy;
+package com.training.designpatterns.creational.strategy.payment;
 
 import org.springframework.stereotype.Component;
 

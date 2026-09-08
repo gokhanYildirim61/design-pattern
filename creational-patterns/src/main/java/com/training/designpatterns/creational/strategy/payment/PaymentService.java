@@ -1,12 +1,10 @@
-package com.training.designpatterns.creational.strategy;
+package com.training.designpatterns.creational.strategy.payment;
 
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
-import javax.swing.plaf.PanelUI;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Objects;
+
 @Service
 public class PaymentService {
     private Map<String,PaymentStrategy> paymentStrategyMap = new HashMap<>();
