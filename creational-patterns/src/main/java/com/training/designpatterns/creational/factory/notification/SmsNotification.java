@@ -1,4 +1,4 @@
-package com.training.designpatterns.creational.factory;
+package com.training.designpatterns.creational.factory.notification;
 
 public class SmsNotification implements NotificationService {
 
