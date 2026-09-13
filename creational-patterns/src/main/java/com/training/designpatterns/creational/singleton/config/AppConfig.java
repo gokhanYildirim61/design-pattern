@@ -1,4 +1,4 @@
-package com.training.designpatterns.creational.singleton;
+package com.training.designpatterns.creational.singleton.config;
 
 public class AppConfig {
     private  String applicationName;

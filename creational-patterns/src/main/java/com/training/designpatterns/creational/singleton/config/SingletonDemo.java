@@ -1,4 +1,4 @@
-package com.training.designpatterns.creational.singleton;
+package com.training.designpatterns.creational.singleton.config;
 
 public class SingletonDemo {
     public static void main(String[] args) {
